@@ -1,6 +1,5 @@
-// material-ui
+// src/ui-component/Logo.jsx
 import { useTheme } from "@mui/material/styles";
-
 import RRHLogo from "../assets/images/logo.png";
 
 export default function Logo() {
