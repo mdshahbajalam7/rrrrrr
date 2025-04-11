@@ -1,7 +1,7 @@
 // material-ui
 import { useTheme } from "@mui/material/styles";
 
-import RRHLogo from "../assets/images/Logo.png";
+import RRHLogo from "../assets/images/logo.png";
 
 export default function Logo() {
   const theme = useTheme();
